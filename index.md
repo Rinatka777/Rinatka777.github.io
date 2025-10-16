@@ -5,13 +5,13 @@ title: Home
 
 ## Introduction
 
-Hi, I’m **Rinat Sharifullin**, and I study linguistics at the **University of Helsinki**. Before that i have been an emergency room nurse for 6 years.  
+Hi, I’m **Rinat Sharifullin**, and I study linguistics at the **University of Helsinki**. Before that I was an emergency room nurse for 6 years.  
 I have always been passionate about **programming** and tech-stuff in general and even got a chance to work as a **software engineer** for 1.5 years. 
-Now my focus switched a bit towards **Natural Language Processing**, **Machine Translation** because next year I move forward to a master's degree in 
+Now my focus switched towards **Natural Language Processing** and **Machine Translation** because next year I move forward to a master's degree in 
 **Language technology**.
-Outside of university, I am passionate about **Brazilian Jiu-Jitsu** and in my free time I either train or code. 
+Outside of university, I am passionate about **Brazilian Jiu-Jitsu** and **programming** and in my free time I either train or code. 
 
-![Profile Picture](assets/images/profile.jpg)
+![Profile Picture](assets/images/profile.png)
 
 ---
 
@@ -37,10 +37,10 @@ Outside of university, I am passionate about **Brazilian Jiu-Jitsu** and in my f
 ---
 
 ## Projects are available at my github page. Some of them are:
-### Churn predictors
+### Churn predictor
 A model that can predict if a customer will churn or not based on their data.
 ### 🧹 Manga-parser
-My friend told me he is afraid that his favorite manga is going to be deleted, so I made a parser that gathers all the manga in one pdf file.
+I made a parser that gathers all the manga in one pdf file - in case it gets deleted.
 ### ⚙️ Command-Line Course Website
 This very site — documenting what I learned about SSH, processes, and Jekyll.
 

@@ -1,27 +1,52 @@
 ---
 layout: default
+title: Home
 ---
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hi, I’m **Rinat Sharifullin**, and I study linguistics at the **University of Helsinki**. Before that i have been an emergency room nurse for 6 years.  
+I have always been passionate about **programming** and tech-stuff in general and even got a chance to work as a **software engineer** for 1.5 years. 
+Now my focus switched a bit towards **Natural Language Processing**, **Machine Translation** because next year I move forward to a master's degree in 
+**Language technology**.
+Outside of university, I am passionate about **Brazilian Jiu-Jitsu** and in my free time I either train or code. 
+
+![Profile Picture](assets/images/profile.jpg)
+
+---
 
 ## Find me on
+- [GitHub](https://github.com/Rinatka777)
+- [LinkedIn](https://www.linkedin.com/in/rinat-sharifullin-777089345/)
+- [Email](rinatsharifullin@gmail.com)
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+---
 
 ## Contact
+📍 Helsinki, Finland  
+📧 rinat.sharifullin@helsinki.fi
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+---
 
-## Courses I've Taken
+## Some of the courses I've taken at the University of Helsinki:
+- [Introduction to Language Technology](https://courses.helsinki.fi/en)
+- [Coding for linguists](https://courses.helsinki.fi/en)
+- [Introduction to NLP](https://courses.helsinki.fi/en)
+- [Command-Line Tools](https://courses.helsinki.fi/en)
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+---
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+## Projects are available at my github page. Some of them are:
+### Churn predictors
+A model that can predict if a customer will churn or not based on their data.
+### 🧹 Manga-parser
+My friend told me he is afraid that his favorite manga is going to be deleted, so I made a parser that gathers all the manga in one pdf file.
+### ⚙️ Command-Line Course Website
+This very site — documenting what I learned about SSH, processes, and Jekyll.
 
-## Projects
+---
 
-## Misc. 
-
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+## Misc.
+- 🥋 Brazilian Jiu-Jitsu practitioner (5 years)- train kids in my free time
+- 💪 Gym and strength training
+- 🌍 Interested in multilingual NLP and applied AI

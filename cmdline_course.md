@@ -58,3 +58,12 @@ This final week combined everything: version control, automation, and publishing
 The CLI course showed how much power lies in mastering the terminal.  
 Even simple tools like `ssh`, `grep`, and `make` become powerful when combined.  
 I now feel more confident working in terminals.
+
+## Summary Table
+
+| Week | Focus Area             | Key Skills Learned               |
+|------|-------------------------|----------------------------------|
+| 1    | Unix basics             | Navigation & permissions         |
+| 2    | SSH & remote computing  | Secure connections               |
+| 3    | Process management      | Background jobs & signals        |
+| 4    | GitHub Pages & Jekyll   | Static site publishing           |

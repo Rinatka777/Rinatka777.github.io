@@ -67,3 +67,5 @@ I now feel more confident working in terminals.
 | 2    | SSH & remote computing  | Secure connections               |
 | 3    | Process management      | Background jobs & signals        |
 | 4    | GitHub Pages & Jekyll   | Static site publishing           |
+
+![The course was nice](/assets/images/img.png)

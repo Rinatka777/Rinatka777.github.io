@@ -24,7 +24,7 @@ Outside of university, I am passionate about **Brazilian Jiu-Jitsu** and **progr
 ## CV
 
 You can view my CV here:
-- **Overleaf (read-only link):** https://www.overleaf.com/read/cqjqhhzktmnd#cfedc1
+- [Overleaf](https://www.overleaf.com/read/cqjqhhzktmnd#cfedc1) (read-only link)
 
 ---
 

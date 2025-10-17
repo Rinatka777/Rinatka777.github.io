@@ -15,33 +15,38 @@ Outside of university, I am passionate about **Brazilian Jiu-Jitsu** and **progr
 
 ---
 
-## Find me on
+## You can find me on
 - [GitHub](https://github.com/Rinatka777)
 - [LinkedIn](https://www.linkedin.com/in/rinat-sharifullin-777089345/)
-- [Email](rinatsharifullin@gmail.com)
+
+---
+
+## CV
+
+You can view my CV here:
+- **Overleaf (read-only link):** https://www.overleaf.com/read/cqjqhhzktmnd#cfedc1
 
 ---
 
 ## Contact
 📍 Helsinki, Finland  
-📧 rinat.sharifullin@helsinki.fi
-
+📧 rinatsharifullin@gmail.com
 ---
 
 ## Some of the courses I've taken at the University of Helsinki:
-- [Introduction to Language Technology](https://courses.helsinki.fi/en)
-- [Coding for linguists](https://courses.helsinki.fi/en)
-- [Introduction to NLP](https://courses.helsinki.fi/en)
-- [Command-Line Tools](https://courses.helsinki.fi/en)
+- [Introduction to Language Technology](https://studies.helsinki.fi/courses/course-unit/otm-96b452f8-1f60-4696-8f0e-50559973b315)
+- [Programming for linguists](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2526-2b1a1c0f-9701-4397-9e19-ab80b0c87af4/KIK-LG208)
+- [Corpus Linguistics and Statistical Methods](https://studies.helsinki.fi/courses/course-implementation/otm-41169e75-4f53-4506-9df8-6e6db2a8d095/KIK-404)
+- [Command-Line Tools](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2526-261401a1-c550-4436-91b9-7edf4a1a3b57/KIK-LG221)
 
 ---
 
 ## Projects are available at my github page. Some of them are:
-### Churn predictor
+### 👨🏻‍💻 [Churn predictor](https://github.com/Rinatka777/customer-churn-prediction)
 A model that can predict if a customer will churn or not based on their data.
-### 🧹 Manga-parser
+### 🧹 [Manga-scraper](https://github.com/Rinatka777/manga_scraper)
 I made a parser that gathers all the manga in one pdf file - in case it gets deleted.
-### ⚙️ Command-Line Course Website
+### ⚙️ [Command-Line Course Website](https://github.com/Rinatka777/Rinatka777.github.io)
 This very site — documenting what I learned about SSH, processes, and Jekyll.
 
 ---

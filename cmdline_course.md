@@ -16,7 +16,7 @@ I practiced on both macOS and the CSC Puhti setting up SSH keys, transferring fi
 **Main topics:**  
 - File and directory operations (`ls`, `cd`, `pwd`, `cp`, `mv`, `rm`)  
 - File viewing (`cat`, `less`, `head`, `tail`)  
-- Permissions (`chmod`, `chown`)  
+- Permissions (`chmod`)  
 - Process management (`ps`, `top`, `kill`)
 
 **Reflection:**  
